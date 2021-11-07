@@ -4,7 +4,13 @@ This is a labeled dataset for a sentiment analysis. The original dataset is from
 
 The original data is somewhat poor, meaning that the given label might not actually fit the true emotion of the text. We are slowly going through the data to clean it. While doing that we created a fourth sentiment `neutral`.
 
-We will give a little definition of each sentiment below.
+### Cleaning process
+- removing Mojibake and features that are clearly no WhatsApp Status (mostly residue from scrapping)
+- relabeling
+- removing racist or homophobic comments
+
+---
+## We will give a little definition of each sentiment below.
 
 ### `happy`
 We label a text as `happy` if it sounds clearly happy and has a positive connotation and expresses light hearted and whimsical thoughts.
