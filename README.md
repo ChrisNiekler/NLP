@@ -20,3 +20,7 @@ To be labeled as `sad` the text expresses fear or insecurity and usually has a d
 
 ### `neutral`
 Status that are neither `happy` or `sad` nor express any particular sentiment are labeled as `neutral`. It can be advice or facts.
+
+
+---
+We also try to add more features by scrapping them from different websites that offer inspiration for WhatsApp Status. 
