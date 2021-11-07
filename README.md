@@ -7,7 +7,7 @@ The original data is somewhat poor, meaning that the given label might not actua
 ### Cleaning process
 - removing Mojibake and features that are clearly no WhatsApp Status (mostly residue from scrapping)
 - relabeling
-- removing racist or homophobic comments
+- removing racist, homophobic and abusive comments
 
 ---
 ## We will give a little definition of each sentiment below.
