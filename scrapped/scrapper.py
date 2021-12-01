@@ -78,6 +78,9 @@ def get_emotion():
             emotion = emo[int(emotion)]
             print(f"Emotion is {emotion}")
             break
+        if emotion == '4':
+            emotion = ""
+            break
     return emotion
 
 while True:
